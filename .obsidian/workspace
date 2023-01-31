@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1728a0bb7047ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a645f8abb6456d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CSS基本语法.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98cc0a1e02e547c",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a211de752c7d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36aea6f279f241dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c4f47fc475b8e94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e629314de0523f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "f203ce1ec7724ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee66064a008cd4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS基本语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "04a645f8abb6456d",
+  "lastOpenFiles": [
+    "CSS基本语法.md",
+    "常用快捷键.md",
+    "html基本语法.md",
+    "English.md"
+  ]
+}

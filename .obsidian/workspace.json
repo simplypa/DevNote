@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "1728a0bb7047ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "747cc6e5dcead5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c82ec916618a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98cc0a1e02e547c",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a211de752c7d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36aea6f279f241dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c4f47fc475b8e94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e629314de0523f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "f203ce1ec7724ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee66064a008cd4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "9c82ec916618a7b2",
+  "lastOpenFiles": [
+    "React前端/React.md",
+    "React前端/Next.js.md",
+    "未命名.canvas",
+    "面试.md",
+    "快捷键.md",
+    "GIT.md",
+    "HTML.md",
+    "JS_Advance.md",
+    "CSS.md",
+    "JS.md"
+  ]
+}
